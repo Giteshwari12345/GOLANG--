@@ -1,2 +1,0 @@
-# GOLANG--
-golang code 
